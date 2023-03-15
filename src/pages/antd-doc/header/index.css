@@ -1,0 +1,67 @@
+.logo-wrap {
+    padding-left: 40px;
+}
+
+.logoName {
+    display: inline-block;
+    margin: 0 12px;
+    color: rgba(0, 0, 0, 0.88);
+    font-weight: bold;
+    font-size: 18px;
+    font-family:
+        AlibabaPuHuiTi, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', sans-serif;
+    line-height: 32px;
+    vertical-align: middle;
+    letter-spacing: -0.18px;
+}
+
+.search-prefix {
+    padding: 0 8px 0 12px;
+    opacity: 0.5;
+}
+
+.search-suffix {
+    padding: 2px 4px;
+    color: #ced4d9;
+    background-color: rgba(150, 150, 150, 0.06);
+    border-color: rgba(100, 100, 100, 0.2);
+    border-radius: 4px;
+}
+
+
+.search-input {
+    width: 280px;
+    border: none;
+    border-left: 1px solid #d0d5d8;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.more-suffix {
+    font-size: 12;
+    margin-left: 4;
+    color: rgb(199, 199, 199);
+}
+
+.icon-wrap {
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.icon-wrap:hover {
+    background-color: #d9d9d9;
+}
+
+.mr24 {
+    margin-right: 24px;
+}
+
+.mr16 {
+    margin-right: 16px;
+}
+
+.around {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+}
